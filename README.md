@@ -1,2 +1,5 @@
 # SSH-brute-
-(POC) SSH brute using multi threadding feel free to add to the script just messing around ;)
+pip install paramiko
+
+
+(POC) SSH brute using multi threadding simply run by ssh_brute.py. Feel free to add to the script just messing around ;)
